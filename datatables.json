@@ -1,0 +1,15 @@
+{
+    "js": [
+        "js/searchPanes.bulma.js",
+        "js/searchPanes.bulma.min.js"
+    ],
+    "css": [
+        "css/searchPanes.bulma.css",
+        "css/searchPanes.bulma.min.css"
+    ],
+    "types": [
+        "types/searchPanes.bulma.d.ts"
+    ],
+    "src-repo": "http://github.com/DataTables/SearchPanes",
+    "last-tag": "1.2.2"
+}

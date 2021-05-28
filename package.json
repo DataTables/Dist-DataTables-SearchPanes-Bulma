@@ -1,0 +1,48 @@
+{
+    "name": "datatables.net-searchpanes-bm",
+    "description": "SearchPanes for DataTables with styling for [Bulma](https://bulma.io/)",
+    "main": "js/searchPanes.bulma.js",
+    "style": "css/searchPanes.bulma.css",
+    "version": "1.2.2",
+    "files": [
+        "css/**/*.css",
+        "js/**/*.js"
+    ],
+    "keywords": [
+        "SearchPanes",
+ "search",
+ "filtering",
+        "Bulma",
+        "Datatables",
+        "jQuery",
+        "table",
+        "filter",
+        "sort"
+    ],
+    "dependencies": {
+        "datatables.net-searchpanes": ">=1.2.2",
+        "datatables.net-bm": ">=1.10.24",
+        "jquery": ">=1.7"
+    },
+    "moduleType": [
+        "globals",
+        "amd",
+        "node"
+    ],
+    "ignore": [
+        "composer.json",
+        "datatables.json",
+        "package.json"
+    ],
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DataTables/Dist-DataTables-SearchPanes-Bulma.git"
+    }
+}
