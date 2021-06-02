@@ -235,3 +235,7 @@ div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dtsp-search
   margin-top: 1px;
   margin-right: 1px;
 }
+
+div.dt-button-collection div.dtsp-panesContainer {
+  padding: 10px;
+}
