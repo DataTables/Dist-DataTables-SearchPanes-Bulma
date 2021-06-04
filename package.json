@@ -4,7 +4,7 @@
     "main": "js/searchPanes.bulma.js",
     "style": "css/searchPanes.bulma.css",
     "types": "./types/searchPanes.bulma.d.ts",
-    "version": "1.2.2",
+    "version": "1.3.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
