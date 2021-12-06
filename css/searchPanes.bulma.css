@@ -255,6 +255,13 @@ div.dtsp-panesContainer button.dtsp-clearAll,
 div.dtsp-panesContainer button.dtsp-showAll {
   margin-left: 3px;
 }
+div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dataTables_wrapper {
+  border: 1px solid #dbdbdb;
+  border-radius: 4px;
+}
+div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dataTables_wrapper:hover {
+  border: 1px solid #bdbdbd;
+}
 div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane input.dtsp-paneInputButton,
 div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane button.dtsp-paneButton {
   height: 35px;
