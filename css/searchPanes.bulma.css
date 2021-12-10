@@ -257,7 +257,6 @@ div.dtsp-panesContainer button.dtsp-showAll {
 }
 div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dataTables_wrapper {
   border: 1px solid #dbdbdb;
-  border-radius: 4px;
 }
 div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dataTables_wrapper:hover {
   border: 1px solid #bdbdbd;
@@ -275,6 +274,9 @@ div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dtsp-search
   width: 33px;
   margin-top: 1px;
   margin-right: 1px;
+}
+div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dtsp-topRow {
+  border-left: none;
 }
 div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dtsp-topRow.dtsp-bordered:hover button.is-disabled {
   cursor: pointer !important;
