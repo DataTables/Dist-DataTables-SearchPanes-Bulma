@@ -2,12 +2,14 @@
     "name": "datatables.net-searchpanes-bm",
     "description": "SearchPanes for DataTables with styling for [Bulma](https://bulma.io/)",
     "main": "js/searchPanes.bulma.js",
+    "module": "js/searchPanes.bulma.mjs",
     "style": "css/searchPanes.bulma.css",
     "types": "./types/searchPanes.bulma.d.ts",
     "version": "2.0.2",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [
