@@ -10,7 +10,8 @@
         "css/searchPanes.bulma.min.css"
     ],
     "types": [
-        "types/searchPanes.bulma.d.ts"
+        "types/searchPanes.bulma.d.ts",
+        "types/types.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/SearchPanes",
     "last-tag": "2.0.2"
