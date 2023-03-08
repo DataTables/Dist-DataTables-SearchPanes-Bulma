@@ -6,7 +6,6 @@ import $ from 'jquery';
 import DataTable from 'datatables.net-bm';
 import SearchPanes from 'datatables.net-searchpanes';
 
-
 $.extend(true, DataTable.SearchPane.classes, {
     disabledButton: 'is-disabled',
     paneButton: 'button dtsp-paneButton is-white',
