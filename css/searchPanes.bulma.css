@@ -342,6 +342,14 @@ div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dt-containe
 div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dataTables_wrapper:hover {
   border: 1px solid #bdbdbd;
 }
+div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dt-container div.dt-scroll-foot,
+div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dataTables_wrapper div.dt-scroll-foot {
+  display: none;
+}
+div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dt-container > div.columns,
+div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane div.dataTables_wrapper > div.columns {
+  margin-bottom: -0.75em !important;
+}
 div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane input.dtsp-paneInputButton,
 div.dtsp-panesContainer div.dtsp-searchPanes div.dtsp-searchPane button.dtsp-paneButton {
   height: 35px;
