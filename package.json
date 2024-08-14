@@ -5,7 +5,7 @@
     "module": "js/searchPanes.bulma.mjs",
     "style": "css/searchPanes.bulma.css",
     "types": "./types/searchPanes.bulma.d.ts",
-    "version": "2.3.0",
+    "version": "2.3.2",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -24,8 +24,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-searchpanes": "2.3.0",
-        "datatables.net-bm": ">=1.11.0",
+        "datatables.net-searchpanes": "2.3.2",
+        "datatables.net-bm": "^2",
         "jquery": ">=1.7"
     },
     "moduleType": [
