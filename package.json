@@ -51,9 +51,10 @@
     "exports": {
         ".": {
             "types": "./types/searchPanes.bulma.d.ts",
+            "style": "./css/searchPanes.bulma.css",
             "import": "./js/searchPanes.bulma.mjs",
-            "default": "./js/searchPanes.bulma.mjs",
-            "require": "./js/searchPanes.bulma.js"
+            "require": "./js/searchPanes.bulma.js",
+            "default": "./js/searchPanes.bulma.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
