@@ -1,4 +1,4 @@
-/*! SearchPanes Bulma styling 3.0.0 for DataTables
+/*! SearchPanes Bulma styling 3.0.1 for DataTables
  * Copyright (c) SpryMedia Ltd - https://datatables.net/license/plus
  */
 import DataTable from"datatables.net-bm";import SearchPanes from"datatables.net-searchpanes";util.object.assignDeep(DataTable.SearchPane.classes,{disabledButton:"is-disabled",paneButton:"button dtsp-paneButton is-white",search:"input search"}),util.object.assignDeep(DataTable.SearchPanes.classes,{clearAll:"dtsp-clearAll button",collapseAll:"dtsp-collapseAll button",disabledButton:"is-disabled",search:DataTable.SearchPane.classes.search,showAll:"dtsp-showAll button"});export default DataTable;
